@@ -1,10 +1,10 @@
-# Contributing Guidelines
+# Contributing Guidelines :)
 
 ### Learn how to create issues, Fork a repo, makes changes, and ask the maintainers to review and merge it
 
 ## Creating Pull Request
 
-You have a GitHub repo and can push to it. All is well. But how the heck do you contribute to other people's GitHub projects? That is what I wanted to know after I learned git and GitHub. I will explain how to fork a git repo, make changes, and submit a pull request.
+You have a Github repo and can push to it. All is well. But how the heck do you contribute to other people's GitHub projects? That is what I wanted to know after I learned git and GitHub. I will explain how to fork a git repo, make changes, and submit a pull request. 
 
 ### Step 1: Fork the repository
 
